@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color:blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left:20px;
+   }
+   nav{
+    background-color:rgb(196, 252, 255);
+    height: 40px;
+    padding-top:20px;
+    }
+    .sectable{
+        padding-left:20%;
+    }
+    footer{
+        background-color: darkgray;
+        text-align:center;
+        clear:right;
+        height:50px;
+        padding-top:18px;
+    }
